@@ -68,7 +68,7 @@
 	* Prior to first inventory system, company had no way of tracking devices
 	* Second inventory system added data auditing and user configuration
 	
-### Student Supoprt / Developer - West Engineering Computing Network - May 2007 to Apr 2008
+### Student Support / Developer - West Engineering Computing Network - May 2007 to Apr 2008
 #### Responsibilities
 * Monitor support email queue and ticket system
 * Support students, faculty, and staff
