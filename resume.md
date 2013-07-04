@@ -2,18 +2,15 @@
 
 [ch@rlesthom.as](mailto:ch@rlesthom.as) / 347.987.0546
 
-## Education
-### Michigan Technological University - Graduated 2008
-**B.S. Computer Network and System Administration**
-
 ## Personal Projects
-###Web Apps
+### Web Apps
 * [bufferti.me](http://www.bufferti.me); a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
 * [rou.st](http://www.rou.st); an urban exploration tool
 
-###Python Libraries
-* [moth](http://github.com/charlesthomas/moth); an email-only authentication scheme
-* [proauth2](http://github.com/charlesthomas/proauth2); an OAuth2 provider
+### Python Libraries
+* [coinshot](https://pypi.python.org/pypi/coinshot); a library for the [pushover.net](http://pushover.net) API
+* [moth](https://pypi.python.org/pypi/moth); an email-only authentication scheme
+* [proauth2](https://pypi.python.org/pypi/proauth2); an OAuth2 provider
 	
 ## Work Experience
 ### Senior QA Engineer - Shopwiki.com - Aug 2012 to Present
@@ -83,3 +80,7 @@
 * Created Perl script to parse DHCPD.conf file and find missing/inaccurate records
 * Redesigned department web site in PHP to be easily updated by plain text files
 * Wrote PHP script to audit internal wiki
+
+## Education
+### Michigan Technological University - Graduated 2008
+**B.S. Computer Network and System Administration**
