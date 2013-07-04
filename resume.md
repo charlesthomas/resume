@@ -2,6 +2,8 @@
 
 [ch@rlesthom.as](mailto:ch@rlesthom.as) / 347.987.0546
 
+[PDF version of this resume](http://cha.rlesthom.as/charles_thomas_resume.pdf)
+
 ## Personal Projects
 ### Web Apps
 * [bufferti.me](http://www.bufferti.me); a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
