@@ -1,8 +1,6 @@
 # Charles Thomas
 
-[ch@rlesthom.as](mailto:ch@rlesthom.as) / 347.987.0546
-
-[PDF version of this resume](http://cha.rlesthom.as/charles_thomas_resume.pdf)
+[ch@rlesthom.as](mailto:ch@rlesthom.as)
 
 ## Personal Projects
 ### Web Apps
