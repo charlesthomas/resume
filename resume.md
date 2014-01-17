@@ -1,9 +1,11 @@
 # Charles Thomas
-
 [ch@rlesthom.as](mailto:ch@rlesthom.as)
+###B.S. Computer Network and System Administration
+**Michigan Technological University - Graduated 2008**
 
 ## Personal Projects
 ### Web Apps
+* [Wifi Display Maker](http://wifidisplaymaker.com); makes a simple printout for sharing your home wifi credentials
 * [bufferti.me](http://www.bufferti.me); a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
 * [rou.st](http://www.rou.st); an urban exploration tool
 
@@ -11,20 +13,23 @@
 * [coinshot](https://pypi.python.org/pypi/coinshot); a library for the [pushover.net](http://pushover.net) API
 * [moth](https://pypi.python.org/pypi/moth); an email-only authentication scheme
 * [proauth2](https://pypi.python.org/pypi/proauth2); an OAuth2 provider
-	
+
 ## Work Experience
-### Senior QA Engineer - Shopwiki.com - Aug 2012 to Present
+### Senior Software Engineer, QA - Shopwiki.com - Aug 2012 to Present
 #### Responsibilities
-* Lead QA Team; assign cases & projects to QA Team members
+* QA team lead
+	* Assign cases & projects to QA Team members
+	* Train new QA team members
 * Write Python tests for new UI features on [shopwiki.com](http://shopwiki.com), [compare.com](http://compare.com), and [rebatecove.com](http://rebatecove.com)
 * Maintain existing UI test suite for same
-* Work closely with Development Team to resolve bugs
+* Work closely with development team to resolve bugs
 
 #### Accomplishments
 * Built system for collecting performance data using open source tools
-* Reduced false-negative tests in UI testing suite by over 50%
-* Wrote Python script to generate QA notes based on output from test suite
-* Completed QA testing cycle for over 3 dozen major and minor UI releases
+* Reduced false-negative tests in UI testing suite by over 75%
+* Reduced testing time per release from multiple days to a few hours
+* Completed QA testing cycle for over 60 major and minor UI releases
+* Built the entire Selenium test framework for [compare.com](http://compare.com)
 
 ### Application Operations Engineer - CheetahMail - Aug 2010 to Aug 2012
 #### Responsibilities
@@ -65,7 +70,7 @@
 * Created two inventory systems with PHP/MySQL
 	* Prior to first inventory system, company had no way of tracking devices
 	* Second inventory system added data auditing and user configuration
-	
+
 ### Student Support / Developer - West Engineering Computing Network - May 2007 to Apr 2008
 #### Responsibilities
 * Monitor support email queue and ticket system
@@ -80,7 +85,3 @@
 * Created Perl script to parse DHCPD.conf file and find missing/inaccurate records
 * Redesigned department web site in PHP to be easily updated by plain text files
 * Wrote PHP script to audit internal wiki
-
-## Education
-### Michigan Technological University - Graduated 2008
-**B.S. Computer Network and System Administration**
