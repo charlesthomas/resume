@@ -8,13 +8,18 @@
 
 * [Wifi Display Maker](http://wifidisplaymaker.com); makes a simple printout for sharing your home wifi credentials
 * [bufferti.me](http://www.bufferti.me); a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
-* [rou.st](http://www.rou.st); an urban exploration tool
+* [rou.st](http://roust.sknkwrks.net); an urban exploration tool
 
 **Python Libraries**
 
 * [coinshot](https://pypi.python.org/pypi/coinshot); a library for the [pushover.net](http://pushover.net) API
 * [moth](https://pypi.python.org/pypi/moth); an email-only authentication scheme
 * [proauth2](https://pypi.python.org/pypi/proauth2); an OAuth2 provider
+
+**Other Tools**
+
+* [hey_dummy](https://github.com/charlesthomas/hey_dummy); be alerted when your long-running process finishes
+* [todo.md](https://github.com/charlesthomas/todo.md); generate todo.md based on "TODO" comments in your code
 
 ## Work Experience
 ### Senior Software Engineer, QA - Shopwiki.com - Aug 2012 to Present
