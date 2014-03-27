@@ -1,6 +1,7 @@
 # Charles Thomas
 [ch@rlesthom.as](mailto:ch@rlesthom.as)
-###B.S. Computer Network and System Administration
+
+### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
 
 ## Personal Projects
