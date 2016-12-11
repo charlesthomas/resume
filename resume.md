@@ -1,5 +1,5 @@
 # Charles Thomas
-[crthomas42@gmail.com](mailto:crthomas42@gmail.com)
+[ch@rlesthom.as](mailto:ch@rlesthom.as)
 
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
@@ -7,8 +7,8 @@
 ## Personal Projects
 **Web Apps**
 
-* [Wifi Display Maker](http://wifidisplaymaker.com); makes a simple printout for sharing your home wifi credentials
 * [bufferti.me](http://www.bufferti.me); a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
+* [Wifi Display Maker](http://wifidisplaymaker.com); makes a simple printout for sharing your home wifi credentials
 * [rou.st](http://roust.herokuapp.com); an urban exploration tool
 
 **Python Libraries**
@@ -19,11 +19,30 @@
 
 **Other Tools**
 
+* [coyote](https://github.com/charlesthomas/coyote); a Chaos-Monkey-like application built on Python and [Celery](http://www.celeryproject.org/)
+* [squire](https://github.com/charlesthomas/squire); monitor the file system and run commands on changes
 * [hey_dummy](https://github.com/charlesthomas/hey_dummy); be alerted when your long-running process finishes
 * [todo.md](https://github.com/charlesthomas/todo.md); generate todo.md based on "TODO" comments in your code
 
 ## Work Experience
-### Senior Software Engineer, QA - Shopwiki.com - Aug 2012 to Present
+### Software Engineer in Test - Datastax - Aug 2014 to Present
+**Responsibilities**
+
+* Write UI tests using Selenium WebDriver in Python
+* Write functional tests using custom internal test framework using Python and shell
+* Maintain test frameworks
+* Maintain Jenkins jobs for running automated tests
+* Test bug fixes / new features by hand, depending on time constraints
+
+**Accomplishments**
+
+* Built Selenium testing framework
+	* Prior to this, all UI testing was done manually
+* Moved Jenkins test infrastructure to use dynamic executors running in OpenStack
+* Built [TestRail_Reporter](https://github.com/charlesthomas/testrail_reporter), a [Nose](https://nose.readthedocs.io/en/latest/index.html) plugin for reporting test results to [TestRail](http://www.gurock.com/testrail/)
+* Contributed [minor patch](https://github.com/SeleniumHQ/selenium/pull/244) to Selenium project to quiet output when testing locally in Safari
+
+### Senior Software Engineer, QA - Shopwiki.com - Aug 2012 to Aug 2014
 **Responsibilities**
 
 * QA team lead
