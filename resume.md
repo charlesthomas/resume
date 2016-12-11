@@ -9,7 +9,7 @@
 
 * [Wifi Display Maker](http://wifidisplaymaker.com); makes a simple printout for sharing your home wifi credentials
 * [bufferti.me](http://www.bufferti.me); a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
-* [rou.st](http://roust.sknkwrks.net); an urban exploration tool
+* [rou.st](http://roust.herokuapp.com); an urban exploration tool
 
 **Python Libraries**
 
