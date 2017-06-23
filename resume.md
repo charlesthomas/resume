@@ -25,7 +25,7 @@
 * [todo.md](https://github.com/charlesthomas/todo.md); generate todo.md based on "TODO" comments in your code
 
 ## Work Experience
-### Software Engineer in Test - Datastax - Aug 2014 to Present
+### Software Engineer in Test - Datastax - Jun 2014 to Present
 **Responsibilities**
 
 * Write UI tests using Selenium WebDriver in Python
