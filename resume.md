@@ -44,7 +44,7 @@
 * QA team lead
 	* Assign cases & projects to QA Team members
 	* Train new QA team members
-* Write Python tests for new UI features on [shopwiki.com](http://shopwiki.com), [compare.com](http://compare.com), and [rebatecove.com](http://rebatecove.com)
+* Write Python tests for new UI features on [shopwiki.com](http://shopwiki.com), compare.com, and rebatecove.com
 * Maintain existing UI test suite for same
 * Work closely with development team to resolve bugs
 
@@ -54,7 +54,7 @@
 * Reduced false-negative tests in UI testing suite by over 75%
 * Reduced testing time per release from multiple days to a few hours
 * Completed QA testing cycle for over 60 major and minor UI releases
-* Built the entire Selenium test framework for [compare.com](http://compare.com)
+* Built the entire Selenium test framework for compare.com
 
 ### Application Operations Engineer - CheetahMail - Aug 2010 to Aug 2012
 **Responsibilities**
