@@ -7,7 +7,6 @@
 ## Personal Projects
 
 * [xunit_tools](https://pypi.org/project/xunit_tools/): a tool for diffing XUnit test result XML files, and generating HTML reports
-* [bufferti.me](http://bufferti.me): a better way to make Buffer schedules, using the [Buffer App API](http://bufferapp.com)
 * [magpie](https://pypi.org/project/magpie/): an [open source](https://github.com/charlesthomas/magpie) git-backed Evernote replacement
 * [coinshot](https://pypi.python.org/pypi/coinshot): a library for the [pushover.net](http://pushover.net) API
 * [squire](https://github.com/charlesthomas/squire): monitor the file system and run commands on changes
