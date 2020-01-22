@@ -1,40 +1,27 @@
 # Charles Thomas
-[ch@rlesthom.as](mailto:ch@rlesthom.as)
+[ch@rlesthom.as](mailto:ch@rlesthom.as) / [github.com/charlesthomas](https://github.com/charlesthomas/resume)
 
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
 
-## Personal Projects
-
-* [xunit_tools](https://pypi.org/project/xunit_tools/): a tool for diffing XUnit test result XML files, and generating HTML reports
-* [magpie](https://pypi.org/project/magpie/): an [open source](https://github.com/charlesthomas/magpie) git-backed Evernote replacement
-* [coinshot](https://pypi.python.org/pypi/coinshot): a library for the [pushover.net](http://pushover.net) API
-* [squire](https://github.com/charlesthomas/squire): monitor the file system and run commands on changes
-* [todo.md](https://github.com/charlesthomas/todo.md): generate todo.md based on "TODO" comments in your code
-* [TestRail_Reporter](https://github.com/charlesthomas/testrail_reporter): a [Nose](https://nose.readthedocs.io/en/latest/index.html) plugin for reporting test results to [TestRail](http://www.gurock.com/testrail/)
-
-## Work Experience
 ### Software Engineer in Test - Datastax - Jun 2014 to Present
 **Responsibilities**
 
-* Write UI tests using Selenium WebDriver in Python
-* Write functional tests using custom internal test framework using Python and shell
-* Maintain test framework
-* Create and maintain Jenkins jobs for running automated tests
-* Test bug fixes / new features by hand, depending on time constraints
+* Build and maintain test framework in Java
+    * UI testing via Selenium
+    * API testing via GraphQL
+* Maintain Python test framework for legacy product
+* Build and maintain Jenkins jobs via Pipeline
 
 **Accomplishments**
 
 * Drove conversion of Jenkins jobs to Jenkins Pipeline
 * Integrated xunit_tools reporting into Jenkins
-	* Built report generation into existing Pipeline architecture
-	* Created new job for generating job result diffs
 * Moved Jenkins test infrastructure to use dynamic executors running in OpenStack
-* Built Selenium testing framework
-	* Prior to this, all UI testing was done manually
+* Built Selenium testing framework in Python
 * Merged stand-alone Selenium test framework into existing functional testing automation framework
 * Helped other product testing team build Selenium test framework in Python
-* Helped same product testing team convert Python Selenium framework to Java
+	* Helped same product testing team convert Python Selenium framework to Java
 * Contributed [minor patch](https://github.com/SeleniumHQ/selenium/pull/244) to Selenium project to quiet output when testing locally in Safari
 
 ### Senior Software Engineer, QA - Shopwiki.com - Aug 2012 to Jun 2014
@@ -98,19 +85,3 @@
 * Created two inventory systems with PHP/MySQL
 	* Prior to first inventory system, company had no way of tracking devices
 	* Second inventory system added data auditing and user configuration
-
-### Student Support / Developer - West Engineering Computing Network - May 2007 to Apr 2008
-**Responsibilities**
-
-* Monitor support email queue and ticket system
-* Resolve Windows and Linux software issues
-* Repair desktop PC hardware
-* Update internal documentation wiki
-* Work special projects assigned by director
-
-**Accomplishments**
-
-* Wrote server/client Perl scripts to collect information from lab computers and update MySQL database
-* Created Perl script to parse DHCPD.conf file and find missing/inaccurate records
-* Redesigned department web site in PHP to be easily updated by plain text files
-* Wrote PHP script to audit internal wiki
