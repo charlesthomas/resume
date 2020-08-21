@@ -4,7 +4,27 @@
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
 
-### Software Engineer in Test - Datastax - Jun 2014 to Present
+### Information Systems Engineer - Datastax - Aug 2020 to preset
+(Started working on the team mid-Feb; official title change 8/1)
+
+**Responsibilities**
+
+* Create, maintain, and monitor company Jenkins infrastructure
+    * 15+ Jenkins servers
+* Own product delivery pipeline from package builds to hosting
+
+**Accomplishments**
+
+* Converted all existing open-source Jenkins servers to CloudBees Core Client Masters
+    * Unified authentication and authorization
+    * Shared resources between Jenkins servers
+* Redesigned and reimplemented product delivery pipeline
+    * Previous implementation was locked to a single Jenkins server & NFS share
+    * New pipeline uses Swift object storage to move artifacts between any Jenkins server
+    * All release pipeline resources including the Jenkins jobs themselves live in a single repo
+        * Using Jenkins Job DSL plugin
+
+### Software Engineer in Test - Datastax - Jun 2014 to Aug 2020
 **Responsibilities**
 
 * Build and maintain test framework in Java
