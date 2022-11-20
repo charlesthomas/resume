@@ -4,7 +4,29 @@
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
 
-### Information Systems Engineer - Datastax - Aug 2020 to preset
+### Release Engineer IV - Mezmo (LogDNA) - Oct 2020 to Present
+
+**Responsibilities**
+
+* Develop and Distribute Deployment Pipeline Tooling
+* Create and Educate on Deployment Pipeline Best Practices
+* Support CI/CD for Microservices Application Stack
+  * 350+ repos across 2 GitHub orgs
+  * ~20 environments; ~15 of which are production
+* Maintain CI/CD Systems
+  * Jenkins
+  * [Razee](https://github.com/razee-io)
+
+**Achievements**
+
+* Reduced Maximum Time to Deploy by 75%
+  * From 20 min to 5 min
+* Created custom tooling for syncing updates to repo templates
+  * When the templates change, PRs are opened to the repos that use them, bringing them up to date with the template
+* Created custom tooling to inject metadata into k8s manifests to aid in troubleshooting in live environments
+  * Custom tool is 80% faster than previous off-the-shelf tool
+
+### Information Systems Engineer - Datastax - Aug 2020 to Oct 2020 
 (Started working on the team mid-Feb; official title change 8/1)
 
 **Responsibilities**
