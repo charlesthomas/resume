@@ -1,5 +1,5 @@
 # Charles Thomas
-[ch@rlesthom.as](mailto:ch@rlesthom.as) / [github.com/charlesthomas](https://github.com/charlesthomas/resume)
+[ch@rlesthom.as](mailto:ch@rlesthom.as) / [charlesthomas.github.io](https://charlesthomas.github.io)
 
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
