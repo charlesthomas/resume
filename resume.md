@@ -1,5 +1,5 @@
 # Charles Thomas
-[ch@rlesthom.as](mailto:ch@rlesthom.as) / [charlesthomas.github.io](https://charlesthomas.github.io)
+[ch@rlesthom.as](mailto:ch@rlesthom.as) / [charlesthomas.dev](https://charlesthomas.dev)
 
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
@@ -15,7 +15,7 @@
   - ~20 environments; ~15 of which are production
 - Maintain CI/CD Systems
   - Jenkins
-  - [Razee](https://github.com/razee-io)
+  - Razee
 
 **Achievements**
 
@@ -25,6 +25,7 @@
   - When the templates change, PRs are opened to the repos that use them, bringing them up to date with the template
 - Created custom tooling to inject metadata into k8s manifests to aid in troubleshooting in live environments
   - Custom tool is 80% faster than previous off-the-shelf tool
+- Contributed to [Razee MustacheTemplate Controller](https://github.com/razee-io/MustacheTemplate/pull/400), enabling better testing by rendering templates outside of a live environment
 
 ### Information Systems Engineer - Datastax - Aug 2020 to Oct 2020 
 (Started working on the team mid-Feb; official title change 8/1)
@@ -72,7 +73,7 @@
 - QA team lead
 	- Assign cases & projects to QA Team members
 	- Train new QA team members
-- Write Python tests for new UI features on [shopwiki.com](http://shopwiki.com), compare.com, and rebatecove.com
+- Write Python tests for new UI features on shopwiki.com, compare.com, and rebatecove.com
 - Maintain existing UI test suite for same
 - Work closely with development team to resolve bugs
 
