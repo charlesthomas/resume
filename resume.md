@@ -1,8 +1,7 @@
 # Charles Thomas
 - email: [ch@rlesthom.as](mailto:ch@rlesthom.as)
 - website: [https://charlesthomas.dev](https://charlesthomas.dev)
-
-###### [the latest PDF version of this resume is available at this link under Assets](http://github.com/charlesthomas/resume/releases/latest)
+- resume: [as PDF](http://github.com/charlesthomas/resume/releases/latest/Charles_Thomas_Resume.pdf)
 
 ## Education
 
