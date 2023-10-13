@@ -33,9 +33,9 @@ jobs:
             })
       - name: generate pdf
         run: |
-          pandoc resume.md -o Charles-Thomas-Resume-$tag.pdf
+          pandoc resume.md -o Charles-Thomas-Resume.pdf
       - name: publish release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create $tag Charles-Thomas-Resume-$tag.pdf
+          gh release create $tag Charles-Thomas-Resume.pdf
