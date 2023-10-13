@@ -1,6 +1,6 @@
-name: Publish Resume PDF as Release Asset
+name: Draft PDF
 
-run-name: Publish Resume PDF as Release Asset
+run-name: Draft PDF
 
 on:
   push:
