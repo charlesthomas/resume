@@ -1,0 +1,41 @@
+name: Publish Resume PDF as Release Asset
+
+run-name: Publish Resume PDF as Release Asset
+
+on:
+  push:
+    branches:
+      - draft
+
+jobs: 
+  Generate-Publish-PDF:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes pandoc texlive-latex-base texlive-latex-recommended
+      - name: generate tag
+        run: |
+          echo "tag=$(date +%F-%H-%M-%S)-draft" >> "$GITHUB_ENV"
+      - name: push tag
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const {tag} = process.env
+            github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: `refs/tags/${tag}`,
+              sha: context.sha
+            })
+      - name: generate pdf
+        run: |
+          pandoc resume.md -o Charles-Thomas-Resume-$tag.pdf
+      - name: publish release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create --draft $tag Charles-Thomas-Resume-$tag.pdf
