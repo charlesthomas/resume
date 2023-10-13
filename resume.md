@@ -1,5 +1,7 @@
 # Charles Thomas
-[ch@rlesthom.as](mailto:ch@rlesthom.as) / [charlesthomas.dev](https://charlesthomas.dev)
+email: [ch@rlesthom.as](mailto:ch@rlesthom.as)
+website: [https://charlesthomas.dev](https://charlesthomas.dev)
+[the latest PDF version of this resume](http://github.com/charlesthomas/resume/releases/latest)
 
 ## Education
 
@@ -8,14 +10,15 @@
 
 ## Skills
 
-| Go        | Kubernetes | Docker | Python  | Git      | CI/CD    | Linux    |
-| --------- | ---------- | ------ | ------- | -------- | -------- | -------- |
-| 1.5 years | 3 years    | 3 years| 9 years | 11 years | 11 years | 20 years |
+| Go        | Kubernetes | Docker  | Python  | Git      | Jenkins  | Linux    |
+| --------- | ---------- | ------- | ------- | -------- | -------- | -------- |
+| 1.5 years | 3 years    | 3 years | 9 years | 11 years | 11 years | 20 years |
 
 ## Areas of Interest
 
 | Developer Enablement | Automation | Efficiency | Standardization |
 | -------------------- | ---------- | ---------- | --------------- |
+| Platform Engineering | DevOps     | Security   | Open Source     |
 
 ## Experience
 
