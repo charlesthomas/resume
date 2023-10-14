@@ -1,7 +1,7 @@
 # Charles Thomas
 - email: [ch@rlesthom.as](mailto:ch@rlesthom.as)
-- website: [https://charlesthomas.dev](https://charlesthomas.dev)
-- resume: [as PDF](http://github.com/charlesthomas/resume/releases/latest/download/Charles-Thomas-Resume.pdf)
+- website: [charlesthomas.dev](https://charlesthomas.dev)
+- resume: [PDF download](http://github.com/charlesthomas/resume/releases/latest/download/Charles-Thomas-Resume.pdf)
 
 ## Education
 
@@ -107,3 +107,7 @@
 - Acted as support team lead for approximately 25% of TimeLink6 customers
 - Created Perl based data parsing tools deployed in customer production environments
 - Created inventory systems with PHP/MySQL
+
+---
+
+[The PDF version of this resume is generated automatically.](https://charlesthomas.dev/blog/generating-my-resume-as-a-pdf-with-github-actions-2023-10-14/)
