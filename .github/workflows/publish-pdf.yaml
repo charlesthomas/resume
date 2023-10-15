@@ -39,3 +39,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release create $tag Charles-Thomas-Resume.pdf
+          gh release list --limit 999 | grep Draft | cut -f 1 | xargs gh release delete
