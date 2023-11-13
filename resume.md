@@ -22,7 +22,7 @@
 
 ## Experience
 
-### Release Engineer IV - Mezmo - Oct 2020 to Present
+### Senior Platform Engineer, Release - Mezmo - Oct 2020 to Nov 2023
 
 **Responsibilities**
 
@@ -40,7 +40,7 @@
   - Capable of running 800 production-readiness tests in 40 seconds
 - Designed and developed tool for syncing template changes to repositories using the template
 
-### Information Systems Engineer - Datastax - Aug 2020 to Oct 2020 
+### Information Systems Engineer - Datastax - Feb 2020 to Oct 2020 
 
 **Responsibilities**
 
@@ -53,7 +53,7 @@
 - Converted all existing open-source Jenkins servers to CloudBees Core Client Masters
 - Redesigned and reimplemented product delivery pipeline
 
-### Software Engineer in Test - Datastax - Jun 2014 to Aug 2020
+### Software Engineer in Test - Datastax - Jun 2014 to Feb 2020
 **Responsibilities**
 
 - Build and maintain test framework in Java
