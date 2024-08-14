@@ -8,11 +8,25 @@
 ### B.S. Computer Network and System Administration
 **Michigan Technological University - Graduated 2008**
 
+## Open Source
+
+* [templatron](https://github.com/charlesthomas/templatron)
+  * a tool for automatically open PRs to destination repos when the template they were generated from changes
+* [homelab](https://github.com/search?q=org%3Acharlesthomas+homelab&type=repositories)
+  * a series of micro-services repositories for running a k3s homelab
+* [homelab-template](https://github.com/charlesthomas/homelab-template)
+  * a repo template that uses `templatron` to automatically update `homelab-*` repos on changes
+* [github-action-svu](https://github.com/charlesthomas/github-action-svu)
+  * a GitHub Action for using [`svu`](https://github.com/caarlos0/svu) to generate new semantic versions based on commit history
+* [bitwarden-cli](https://github.com/charlesthomas/bitwarden-cli)
+  * a Docker image for BitWarden's cli
+  * created when I discovered that the image formerly listed in [external-secrets documentation](https://github.com/external-secrets/external-secrets/pull/2971) was no longer available
+
 ## Skills
 
-| Go        | Kubernetes | Docker  | Python  | Git      | Jenkins  | Linux    |
-| --------- | ---------- | ------- | ------- | -------- | -------- | -------- |
-| 1.5 years | 3 years    | 3 years | 9 years | 11 years | 11 years | 20 years |
+| Go      | Kubernetes | Docker  | Python  | Git      | Jenkins  | Linux    |
+| ------- | ---------- | ------- | ------- | -------- | -------- | -------- |
+| 2 years | 3 years    | 3 years | 9 years | 11 years | 11 years | 20 years |
 
 ## Areas of Interest
 
@@ -21,6 +35,25 @@
 | Platform Engineering | DevOps     | Security   | Open Source     |
 
 ## Experience
+
+### Senior Platform Engineer - InfluxData - Jan 2024 to Present
+
+**Responsibilities**
+
+- Maintain and improve InfluxDB Cloud2 deployment pipeline & tooling
+- Operate InfluxDB Cloud2 infrastructure
+  - 17 Kubernetes clusters across 3 cloud providers
+- Serve as final application support escalation tier for customers
+- Participate in on-call rotation
+
+**Achievements**
+
+- Reverse-engineered image auto-promoter tool for readability, maintainability, and performance
+  - Previous tool was maintained by a team of 8
+  - The new version is a minimum of 15x faster
+    - Based on slowest observed run of new tool vs. fastest observed run of old tool
+- Added feature via [upstream pull request](https://github.com/kubecfg/kubecfg/pull/415) to a tool used for generating Kubernetes manifests
+  - This allowed us to upgrade a 3rd party service without completely rewriting the `jsonnet` library used to render its manifests
 
 ### Senior Platform Engineer, Release - Mezmo - Oct 2020 to Nov 2023
 
