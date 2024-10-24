@@ -12,7 +12,7 @@
 
 * [templatron](https://github.com/charlesthomas/templatron)
   * a tool for automatically open PRs to destination repos when the template they were generated from changes
-* [homelab](https://github.com/search?q=org%3Acharlesthomas+homelab&type=repositories)
+* [homelab](https://github.com/charlesthomas/homelab)
   * a series of micro-services repositories for running a k3s homelab
 * [homelab-template](https://github.com/charlesthomas/homelab-template)
   * a repo template that uses `templatron` to automatically update `homelab-*` repos on changes
